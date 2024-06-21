@@ -1,0 +1,16 @@
+{
+	"name": "fmentor-nft-php",
+	"version": "1.0.0",
+	"description": "nft preview card component using php",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/al3xback/fmentor-nft-php.git"
+	},
+	"author": "alex <al3xback@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/al3xback/fmentor-nft-php/issues"
+	},
+	"homepage": "https://github.com/al3xback/fmentor-nft-php#readme"
+}
