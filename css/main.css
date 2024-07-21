@@ -32,7 +32,6 @@ h2 {
 }
 
 p {
-	font-size: 1.8rem;
 	font-weight: 300;
 }
 
@@ -47,7 +46,7 @@ body {
 	font-size: 1.6rem;
 	font-weight: 400;
 	color: #8bacda;
-	line-height: 1.4375;
+	line-height: 1.5;
 }
 
 /* ========================= */
@@ -189,7 +188,7 @@ main > .container {
 }
 
 .card__desc {
-	margin-bottom: 1.6rem;
+	margin-bottom: 1.8rem;
 }
 
 .card__stats-list-item {
@@ -237,6 +236,7 @@ main > .container {
 
 	.card__desc {
 		margin-bottom: 2.4rem;
+		font-size: 1.8rem;
 	}
 
 	.card__stats-list-item,
